@@ -3,11 +3,11 @@
 
 ## Project Overview
 
-This project is designed to identify and evaluate the best NVIDIA RTX graphics cards available in the Egyptian market through an automated, AI-driven process. The workflow leverages a series of AI agents to collect, analyze, and present data in a comprehensive web-based report.
+This project is designed to identify and evaluate the best NVIDIA RTX graphics cards available in the Egyptian market through an automated, AI-driven process. The workflow leverages a series of AI agents to collect, analyze, and present data in a comprehensive web based report.
 
 ### Key Features
 
-- **Objective**: Source the top RTX graphics cards in the Egyptian market based on price, specifications, and availability.
+- **Objective**: Source the top RTX 5070 graphics cards in the Egyptian market based on price, specifications, and availability.
 - **Agent Workflow**:
   - Four AI agents operate sequentially, with each agent passing its output to the next in the pipeline.
   - Each agent generates independent results, ensuring modular and verifiable data processing.
