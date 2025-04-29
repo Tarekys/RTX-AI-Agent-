@@ -1,6 +1,7 @@
-# RTX Graphics Card Procurement Project
+# AI-Agent-01
+## RTX Graphics Card Procurement Project
 
-## Project Overview
+##Project Overview
 
 This project is designed to identify and evaluate the best NVIDIA RTX graphics cards available in the Egyptian market through an automated, AI-driven process. The workflow leverages a series of AI agents to collect, analyze, and present data in a comprehensive web-based report.
 
@@ -18,6 +19,3 @@ This project is designed to identify and evaluate the best NVIDIA RTX graphics c
 
 The goal is to assist in making an informed purchasing decision by providing a detailed comparison of RTX graphics cards, tailored for personal use in the Egyptian market.
 
----
-
-For more details on the implementation, refer to the project documentation.
