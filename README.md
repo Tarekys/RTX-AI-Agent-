@@ -1,5 +1,5 @@
-# AI-Agent-01
-## RTX Graphics Card Procurement Project
+
+# RTX Graphics Card shopping agents. 
 
 ## Project Overview
 
