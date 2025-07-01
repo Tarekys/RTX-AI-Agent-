@@ -1,10 +1,10 @@
-# 🧠 RTX 5070 Procurement AI Agents
+# RTX 5070 Procurement AI Agents
 
 This project is an AI-powered system made up of **4 collaborative agents**. Their main goal is to help the user find the **best place and price** to buy an **RTX 5070 graphics card** by searching, extracting, analyzing, and reporting product data from e-commerce websites.
 
 ---
 
-## ✅ Project Idea
+## Project Idea
 
 Automatically search for RTX 5070 listings online, compare product specifications and prices, and generate a professional procurement report.
 
@@ -12,15 +12,15 @@ Automatically search for RTX 5070 listings online, compare product specification
 
 ## ⚙️ Technologies Used
 
-- 🤖 [CrewAI](https://github.com/joaomdmoura/crewai) for multi-agent orchestration
-- 🌐 Tavily for real-time web search
-- 🕷️ Scrapegraph for smart web scraping
-- 📊 AgentOps for agent performance tracking
+-  [CrewAI](https://github.com/joaomdmoura/crewai) for multi-agent orchestration
+- Tavily for real-time web search
+- Scrapegraph for smart web scraping
+- AgentOps for agent performance tracking
 - 🦙 Meta LLaMA-4 (17B) as the main language model
 
 ---
 
-## 🤖 The Four Agents
+## The Four Agents
 
 ### 1️⃣ Search Queries Recommendation Agent
 
@@ -87,7 +87,7 @@ Automatically search for RTX 5070 listings online, compare product specification
 
 ---
 
-## 🚀 How to Run
+## Run the Notbook 
 
 1. Set the required API keys in environment variables.
 2. Modify the input parameters like:
@@ -109,7 +109,7 @@ crew_results = rankyx_crew.kickoff(inputs=inputs)
 
 ---
 
-## 📂 Outputs
+## Outputs
 
 Generated in the `Agents-output/` folder:
 - Search queries JSON
